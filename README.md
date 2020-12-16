@@ -1,4 +1,4 @@
-# ![Logo](https://raw.githubusercontent.com/BitlDevelopmentStudios/MAYHEM/main/graphics/logo.png)
+# ![Logo](https://raw.githubusercontent.com/BitlDevelopmentStudios/MAYHEM/main/graphics/logo_small.png)
 
 ## Description:
 This game is a horde-mode top down shooter where you and a friend must take down hordes of robots, aliens, zombies, and a giant UFO at the end.
