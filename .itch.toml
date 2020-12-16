@@ -1,0 +1,5 @@
+[[actions]]
+name = "Play"
+path = "MAYHEM.exe"
+console = true
+sandbox = true
